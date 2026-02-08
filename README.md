@@ -2,11 +2,7 @@
 
 ***Nuitka Command GUI*** 是一款专为 Python 开发者设计的 Nuitka 可视化打包配置工具。它将复杂的命令行参数转化为直观的图形界面，支持从基础打包到深层性能优化的全方位配置，旨在大幅降低 Nuitka 的使用门槛。
 
-|  |  |
-| --- | --- |
-| ![](screenshot/1.jpg) | ![](screenshot/2.jpg) |
-|![](screenshot/3.jpg) | ![](screenshot/4.jpg) |
-
+![](screenshot/1.jpg)
 
 
 ## 🚀 核心特性
@@ -61,6 +57,9 @@
 | **⚙️ 优化/编译器**  | 强制指定 Clang/MinGW、静态链接库、LTO 等底层配置。           |
 | **🔌 插件/数据**    | 处理框架兼容性问题（Qt/Numpy 等）及第三方资源打包。          |
 
+- ![](screenshot/2.jpg)
+- ![](screenshot/3.jpg)
+- ![](screenshot/4.jpg)
 
 
 ## ⚠️ 注意事项
